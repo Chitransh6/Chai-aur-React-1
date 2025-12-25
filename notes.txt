@@ -23,7 +23,16 @@ ___Video 3___
 
 7. we can use this multiple time
 
+__video 4__
 
+1. react.creatElement('type',{atributs},'children');
+  -- by using this we create the eleemnt in react
+
+2. at the end React render elements as javascript object
+
+3. in render function jsx code are converted into javascript object
+
+4. createElement are given by the bebal
 
 
              
